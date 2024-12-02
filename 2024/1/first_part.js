@@ -1,6 +1,6 @@
 const fs = require('fs')
 const readline = require('readline')
-const inputFile = "input.txt"
+const inputFile = "first_input.txt"
 
 let list_a = []
 let list_b = []
