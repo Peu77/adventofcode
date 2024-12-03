@@ -49,4 +49,3 @@ parse_input().then(() => {
 
     console.log(result);
 })
-

@@ -35,7 +35,6 @@ parse_input().then(() => {
             let copy = [...level];
 
             const to_remove = copy.splice(j, 1);
-
             copy = copy.filter(e => e !== to_remove);
 
             for (let i = 1; i < copy.length; i++) {
